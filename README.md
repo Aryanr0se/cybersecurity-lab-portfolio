@@ -1,29 +1,83 @@
-# Cybersecurity Lab Portfolio
+# 🛡️ Cybersecurity Lab Portfolio
 
-This repository documents hands-on cybersecurity labs, methodologies, and technical write-ups completed as part of continuous learning and practical security training.
+> *A growing collection of hands-on cybersecurity labs, technical write-ups, and practical security assessments documenting my journey toward becoming a well-rounded penetration tester and security professional.*
 
-## Current Focus
+![GitHub](https://img.shields.io/badge/Portfolio-Cybersecurity-blue)
+![Platform](https://img.shields.io/badge/Primary%20Platform-TryHackMe-red)
+![Learning](https://img.shields.io/badge/Status-Actively%20Learning-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-Penetration%20Testing-orange)
 
-I am currently working through the TryHackMe Penetration Tester roadmap, focusing on practical skills in enumeration, vulnerability discovery, exploitation, privilege escalation, and remediation.
+---
 
-## Focus Areas
+# 👋 About This Repository
 
-- Penetration Testing Methodology
-- Web Application Security
-- Enumeration and Reconnaissance
-- Linux Security
-- Windows Security
-- Privilege Escalation
-- Active Directory Fundamentals
-- Vulnerability Remediation
-- Technical Documentation
+Welcome to my cybersecurity lab portfolio!
 
-## Lab Reports
+This repository documents my hands-on learning through practical cybersecurity labs, security assessments, and technical write-ups. Rather than simply recording completed exercises, each report focuses on the methodology, thought process, technical findings, and remediation strategies used throughout the assessment.
 
-| Platform | Room / Lab | Focus Area | Report |
-|---|---|---|---|
-| TryHackMe | Coming Soon | Penetration Testing | Coming Soon |
+My goal is to continuously improve my offensive security, networking, and system security skills while developing the documentation and reporting abilities expected in professional cybersecurity roles.
 
-## Disclaimer
+---
 
-All work documented in this repository was completed in legal, authorized lab environments. Flags, direct answers, credentials, and protected platform content are intentionally excluded.
+# 🎯 Current Focus
+
+I am currently progressing through the **TryHackMe Penetration Tester** learning path while strengthening my understanding of:
+
+* 🌐 Web Application Security
+* 🖥️ Infrastructure Security
+* 🔎 Enumeration & Reconnaissance
+* 🐧 Linux Security
+* 🪟 Windows Security
+* 👑 Privilege Escalation
+* 🏢 Active Directory
+* 📊 Vulnerability Assessment
+* 📝 Technical Reporting
+
+As I continue learning, this repository will expand to include additional platforms, home lab projects, and independent security research.
+
+---
+
+# 📂 Lab Reports
+
+| Platform  | Lab                            | Category                 | Status      |
+| --------- | ------------------------------ | ------------------------ | ----------- |
+| TryHackMe | Guided Pentest: Infrastructure | Infrastructure Security  | ✅ Completed |
+| TryHackMe | Guided Pentest: Web            | Web Application Security | ✅ Completed |
+
+---
+
+# 🛠️ Skills Being Developed
+
+* Penetration Testing Methodology
+* Network Reconnaissance
+* Service Enumeration
+* Web Application Testing
+* Vulnerability Discovery
+* Authentication & Authorization Testing
+* Linux Post-Exploitation
+* Privilege Escalation
+* Security Documentation & Reporting
+
+---
+
+# 🚀 What's Next
+
+This portfolio will continue to grow with additional practical labs and projects covering topics such as:
+
+* Active Directory Security
+* Windows Privilege Escalation
+* Linux Privilege Escalation
+* Network Exploitation
+* Web Exploitation
+* API Security
+* OWASP Top 10
+* Home Lab Projects
+* Detection Engineering
+* Blue Team Exercises
+
+---
+
+# ⚖️ Disclaimer
+
+All activities documented within this repository were performed in authorized lab environments designed for cybersecurity education and training. Challenge flags, credentials, exploit code, and platform-specific answers have been intentionally omitted. This repository is intended to demonstrate technical methodology, professional documentation, and continuous learning—not to provide walkthroughs or solutions.
+
