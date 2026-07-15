@@ -37,7 +37,6 @@ As I continue learning, this repository will expand to include additional platfo
 
 ---
 # 📚 Published Technical Reports
-
 | # | Platform | Lab | Focus Area | Completed |
 |:-:|----------|-----|------------|:---------:|
 | 01 | TryHackMe | Guided Pentest: Web | Web Application Security | ✅ 7 Jul 2026 |
@@ -46,7 +45,6 @@ As I continue learning, this repository will expand to include additional platfo
 | 04 | TryHackMe | Cyber Kill Chain | Threat Intelligence & Defensive Security | ✅ 10 Jul 2026 |
 | 05 | TryHackMe | Penetration Testing Frameworks | Penetration Testing Methodologies & Frameworks | ✅ 14 Jul 2026 |
 | 06 | TryHackMe | Passive Reconnaissance | Reconnaissance & OSINT | ✅ 15 Jul 2026 |
-
 ---
 
 # 🛠️ Skills Being Developed
