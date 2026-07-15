@@ -36,14 +36,17 @@ I am currently progressing through the **TryHackMe Penetration Tester** learning
 As I continue learning, this repository will expand to include additional platforms, home lab projects, and independent security research.
 
 ---
-# 📂 Lab Reports
+# 📚 Published Technical Reports
 
 | # | Platform | Lab | Focus Area | Completed |
 |:-:|----------|-----|------------|:---------:|
-| 01 | TryHackMe | Guided Pentest: Infrastructure | Infrastructure Security | ✅ 8 Jul 2026 |
-| 02 | TryHackMe | Guided Pentest: Web | Web Application Security | ✅ 7 Jul 2026 |
+| 01 | TryHackMe | Guided Pentest: Web | Web Application Security | ✅ 7 Jul 2026 |
+| 02 | TryHackMe | Guided Pentest: Infrastructure | Infrastructure Security | ✅ 8 Jul 2026 |
 | 03 | TryHackMe | Dive Into Pentesting | Penetration Testing Fundamentals | ✅ 9 Jul 2026 |
 | 04 | TryHackMe | Cyber Kill Chain | Threat Intelligence & Defensive Security | ✅ 10 Jul 2026 |
+| 05 | TryHackMe | Penetration Testing Frameworks | Penetration Testing Methodologies & Frameworks | ✅ 14 Jul 2026 |
+| 06 | TryHackMe | Passive Reconnaissance | Reconnaissance & OSINT | ✅ 15 Jul 2026 |
+
 ---
 
 # 🛠️ Skills Being Developed
