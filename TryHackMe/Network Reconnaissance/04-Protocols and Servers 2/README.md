@@ -16,7 +16,7 @@
 | 🎯 Platform | TryHackMe |
 | 🛣️ Learning Path | Penetration Tester |
 | 🌐 Category | Network Security |
-| 📅 Completed | 16th July 2026 |
+| 📅 Completed | 17th July 2026 |
 | 📈 Status | Completed |
 
 ---
