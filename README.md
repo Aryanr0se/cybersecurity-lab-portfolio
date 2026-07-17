@@ -47,6 +47,7 @@ As I continue learning, this repository will expand to include additional platfo
 | 06 | TryHackMe | Passive Reconnaissance | Reconnaissance & OSINT | ✅ 15 Jul 2026 |
 | 07 | TryHackMe | Active Reconnaissance | Reconnaissance & Network Discovery | ✅ 15 Jul 2026 |
 | 08 | TryHackMe | Protocols and Servers | Networking & Application Protocols | ✅ 16 Jul 2026 |
+| 09 | TryHackMe | Protocols and Servers 2 | Network Security & Protocol Attacks | ✅ 17 Jul 2026 |
 ---
 
 # 🛠️ Skills Being Developed
