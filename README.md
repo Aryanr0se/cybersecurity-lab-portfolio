@@ -49,6 +49,7 @@ As I continue learning, this repository will expand to include additional platfo
 | 08 | TryHackMe | Protocols and Servers | Networking & Application Protocols | ✅ 16 Jul 2026 |
 | 09 | TryHackMe | Protocols and Servers 2 | Network Security & Protocol Attacks | ✅ 17 Jul 2026 |
 | 10 | TryHackMe | Nmap Live Host Discovery | Network Discovery & Enumeration | ✅ 17 Jul 2026 |
+| 11 | TryHackMe | Nmap Basic Port Scans | Network Enumeration & Port Scanning | ✅ 20 Jul 2026 |
 ---
 
 # 🛠️ Skills Being Developed
