@@ -16,7 +16,7 @@
 | 🎯 Platform | TryHackMe |
 | 🛣️ Learning Path | Penetration Tester |
 | 🌐 Category | Service Enumeration & Post Port Scanning |
-| 📅 Completed | 20th July 2026 |
+| 📅 Completed | 21st July 2026 |
 | 📈 Status | Completed |
 
 ---
