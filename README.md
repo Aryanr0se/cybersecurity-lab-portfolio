@@ -52,6 +52,7 @@ As I continue learning, this repository will expand to include additional platfo
 | 11 | TryHackMe | Nmap Basic Port Scans | Network Enumeration & Port Scanning | ✅ 20 Jul 2026 |
 | 12 | TryHackMe | Nmap Advanced Port Scans | Advanced Network Enumeration & Stealth Scanning | ✅ 20 Jul 2026 |
 | 13 | TryHackMe | Nmap Post Port Scans | Service Enumeration & Nmap Scripting | ✅ 21 Jul 2026 |
+| 14 | TryHackMe | Walking An Application | Manual Web Application Security Testing | ✅ 22 Jul 2026 |
 ---
 
 # 🛠️ Skills Being Developed
